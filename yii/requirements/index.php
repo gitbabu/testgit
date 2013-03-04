@@ -17,7 +17,7 @@
 /**
  * @var array List of requirements (name, required or not, result, used by, memo)
  */
-$requirements=array(
+$requirements=array( 
 	array(
 		t('yii','PHP version'),
 		true,
