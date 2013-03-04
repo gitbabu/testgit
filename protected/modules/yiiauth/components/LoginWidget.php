@@ -15,7 +15,7 @@ class LoginWidget extends CWidget {
 	//where your preferred login icons/buttons are located (providers must be named named as provider.png)
 	public $path = "images/login_icons/";
 	//authenticate action url
-	public $url = "/yiiauth/default/authenticatewith";
+	public $url = "yiiauth/default/authenticatewith";
 	//These you have to set up in your config with appkey and secret obtained from their sites
 	public $providers = array('linkedin','facebook',/*'google',,'twitter','linkedin','live','myspace'*/);
 	//Open id servers in format 'name on image'=>'providerServer'
