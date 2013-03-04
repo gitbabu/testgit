@@ -13,7 +13,7 @@
 
 return 
 	array(
-		"base_url" => "http://spreadthewordapp.com/byio/yii/linkedin/hybridauth", 
+		"base_url" => "http://likeguide.com/hybridauth", 
 
 		"providers" => array ( 
 			// openid providers
