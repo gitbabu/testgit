@@ -1,4 +1,4 @@
-<?php
+<?php 
 /**
  * GoogleSearch extension for Yii.
  *
