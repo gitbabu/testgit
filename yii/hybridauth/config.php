@@ -13,7 +13,7 @@
 
 return 
 	array(
-		"base_url" => "http://likeguide.com/hybridauth", 
+		"base_url" => "http://likeguide.com/yii/hybridauth", 
 
 		"providers" => array ( 
 			// openid providers

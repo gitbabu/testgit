@@ -25,7 +25,7 @@ return array(
 		'yiiauth'=>array(
         'userClass'=>'User', //the name of your Userclasshttp://http://biziindia.com/pv-dev/v01/hybridauth/
         'config'=>array(
-        "base_url" =>"http://likeguide.com/hybridauth", 
+        "base_url" =>"http://likeguide.com/yii/hybridauth", 
         "providers" => array ( 
                 // openid providers
                /* "OpenID" => array (
