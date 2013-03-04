@@ -22,11 +22,11 @@ foreach($openid_servers as $image=>$server){
 
 ?>
 	<a href="#" id="wordpress" class="extra_info" title="Wordpress">
-		<img src="/images/login_icons/wordpress.png"/>
+		<img src="/images/login_icons/wordpress.png"/>sdfsdfsdf
 	</a>
 	
 	<a href="#" id="openid" class="extra_info" title="Diffrent OpenID server"/>
-	<img src="/images/login_icons/openid.png" alt="Diffrent OpenID provider"/> 
+	<img src="/images/login_icons/openid.png" alt="Diffrent OpenID provider"/> sdfsdf
 	</a>
 	
 	<!-- target div for jQuery to set dynamic instructions to the user -->
