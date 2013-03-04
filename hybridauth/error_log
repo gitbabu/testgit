@@ -1,0 +1,5 @@
+[25-Feb-2013 05:04:46 UTC] PHP Fatal error:  Class 'Hybrid_Providers_LinkedIn' not found in /home/spw/public_html/byio/yii/linkedin/hybridauth/Hybrid/Provider_Adapter.php on line 85
+[27-Feb-2013 10:21:35 UTC] PHP Warning:  Unterminated comment starting line 240 in /home/spw/public_html/byio/yii/linkedin/hybridauth/Hybrid/thirdparty/LinkedIn/LinkedIn.php on line 240
+[27-Feb-2013 10:21:35 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/spw/public_html/byio/yii/linkedin/hybridauth/Hybrid/thirdparty/LinkedIn/LinkedIn.php on line 248
+[27-Feb-2013 10:21:51 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/spw/public_html/byio/yii/linkedin/hybridauth/Hybrid/thirdparty/LinkedIn/LinkedIn.php on line 1250
+[27-Feb-2013 10:23:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/spw/public_html/byio/yii/linkedin/hybridauth/Hybrid/thirdparty/LinkedIn/LinkedIn.php:652) in /home/spw/public_html/byio/yii/linkedin/hybridauth/Hybrid/Auth.php on line 354
